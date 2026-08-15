@@ -1,4 +1,4 @@
-# Privacy Policy for Spiders:Burn with fire
+# Privacy Policy for Spiders:Burn them out
 
 **Last Updated:** July 30, 2026
 
