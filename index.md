@@ -2,7 +2,7 @@
 
 **Last Updated:** July 30, 2026
 
-**Rubarion Games** ("we," "our," or "us") respects your privacy. This Privacy Policy applies to the virtual reality application **Spiders:Burn with fire** (the "Application").
+**Rubarion Games** ("we," "our," or "us") respects your privacy. This Privacy Policy applies to the virtual reality application **Spiders:Burn them out** (the "Application").
 
 ### 1. Information Collection and Use
 The Application is designed as a standalone offline experience. We **do not collect, store, process, or share** any personal data, location data, biometric data, device identifiers, or usage analytics from your device or Meta Horizon account.
